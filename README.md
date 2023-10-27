@@ -19,7 +19,7 @@
 
   2. Realize  a restauração do  [banco  de dados](https://github.com/themarcosramos/marketplace/blob/main/backup_marketplace.sql). 
 
-  3. Acesse  o seguinte :
+  3. Acesse o seguinte diretório :
 
    ``` 
      marketplace/source/Boot/Config.php
