@@ -47,5 +47,7 @@
    ```
  Depois de seguir o passo a passo é só acessar seu navegador com o [endereço localhost:8080 ](http://localhost:8080/). 
 
- ------------------------------------------------------------------------------------------------------
   
+  ### Obsevação  
+
+  > Foi utilizado o site  [impostometro](https://impostometro.com.br/home/relacaoprodutos) para  pegar o valores do ao imposto
