@@ -1,0 +1,27 @@
+{
+  "name": "dev/marketplace",
+  "description": "Code Challenge: Marketplace em php ",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Marcos Ramos",
+      "email": "mjramosfsa@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Boot/Config.php",
+      "source/Boot/Helpers.php"
+    ]
+  },
+  "require": {
+    "php": "^7.4"
+  }
+}
