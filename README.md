@@ -33,14 +33,14 @@
 
  *  12 dentro da  => ‘ ’  o nome do a senha do banco de dados .
 
-  4. Após isso se desloque pelo terminal isso na pasta raiz do projeto e execute o seguinte : 
+  4. Após isso se desloque pelo terminal até o diretório raiz do projeto e execute o seguinte : 
 
 
    ``` 
     composer install
    ```
 
- 5. Após isso ainda pasta raiz do projetoe execute o seguinte para incicar o sevidor  do php 
+ 5. Após isso ainda diretório raiz do projetoe execute o seguinte para incicar o sevidor  do php 
 
    ``` 
     php -S localhost:8080
